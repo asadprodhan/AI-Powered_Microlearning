@@ -93,54 +93,66 @@ Make this a short 5-step microlearning lesson.
 
 ---
 
-## 🗝️ What If You Don’t Know How to Write Effective Prompts?
+## **What If You Don’t Know How to Write Effective Prompts?**
 
 Prompting is a skill — and AI can help you learn it.  
 You can even ask AI to **evaluate your prompts** and **suggest improvements**.
 
 
-## 📚 University-Curated AI Learning Resources
+## **University-Curated AI Learning Resources**
 
 | Category | Resource | Developed/Hosted By | Description |
 |-----------|-----------|--------------------|-------------|
-| 🧭 AI Literacy | [**Elements of AI**](https://www.elementsofai.com/) | University of Helsinki | A free, globally recognized course that introduces AI concepts for all disciplines. |
-| 💬 Prompt Design | [**Learn Prompting**](https://learnprompting.org/) | Open collaboration of AI educators and researchers | Structured lessons on writing and improving prompts for education and research. |
-| 🎓 Teaching & AI | [**Teaching with AI**](https://teachingtools.utoronto.ca/resources/teaching-with-ai/) | University of Toronto | Academic guide for using AI in learning and research settings. |
-| 🔍 AI for Learning | [**AI Pedagogy Project**](https://aipedagogy.org/) | Harvard University | Repository of educator-designed activities and case studies using AI for learning. |
-| 🧠 Critical Thinking | [**Center for Teaching & Learning: AI Literacy**](https://ctl.columbia.edu/resources-and-technology/ai-literacy/) | Columbia University | Practical advice on ethical, reflective, and effective AI use in university learning. |
+| AI Literacy | [**Elements of AI**](https://www.elementsofai.com/) | University of Helsinki | A free, globally recognized course that introduces AI concepts for all disciplines. |
+| Prompt Design | [**Learn Prompting**](https://learnprompting.org/) | Open collaboration of AI educators and researchers | Structured lessons on writing and improving prompts for education and research. |
+| Teaching & AI | [**Teaching with AI**](https://teachingtools.utoronto.ca/resources/teaching-with-ai/) | University of Toronto | Academic guide for using AI in learning and research settings. |
+| AI for Learning | [**AI Pedagogy Project**](https://aipedagogy.org/) | Harvard University | Repository of educator-designed activities and case studies using AI for learning. |
+| Critical Thinking | [**Center for Teaching & Learning: AI Literacy**](https://ctl.columbia.edu/resources-and-technology/ai-literacy/) | Columbia University | Practical advice on ethical, reflective, and effective AI use in university learning. |
 
-> 🧩 **All resources above are publicly available and developed by educators, professors, or researchers** from reputable universities.
+> **All resources above are publicly available and developed by educators, professors, or researchers** from reputable universities.
 
 
 ---
 
-## 🤖 Can AI Teach You How to Use AI?
+## **Can AI Teach You How to Use AI?**
 
 Yes — AI can coach you on how to use it better!  
 Try asking:
-> “Teach me how to design effective prompts for learning complex topics.”
+
+```
+Teach me how to design effective prompts for learning complex topics.
+```
 
 Or:
-> “Review this prompt and tell me how to make it more specific and useful.”
+
+```
+Review this prompt and tell me how to make it more specific and useful.
+```
 
 This “learning loop” turns AI into both a **teacher** and a **mirror** for your thought process.
 
 ---
 
-## 🧩 Practice Activity: AI-Guided Microlearning Examples
+## **Practice Activity: AI-Guided Microlearning Examples**
 
 Use the following exercises to see how AI can speed up and personalize your learning.
 
-### 🧪 **Activity 1: Workflow Simulation**
+### **Activity 1: Workflow Simulation**
 Prompt:
-> “Act as my lab mentor. Explain how PCR detects bacterial DNA in a sample. Include steps, reagents, and interpretation.”
+
+```
+Act as my lab mentor. Explain how PCR detects bacterial DNA in a sample. Include steps, reagents, and interpretation.
+```
 
 Follow-up:
-> “Now turn that into a 4-step microlearning module with a short quiz.”
+
+```
+Now turn that into a 4-step microlearning module with a short quiz.
+```
 
 ---
 
-### 🔬 **Activity 2: Understanding Technology**
+### **Activity 2: Understanding Technology**
 Prompt:
 > “Explain how Illumina high-throughput sequencing identifies unknown microorganisms from mixed samples.”
 
@@ -149,7 +161,7 @@ Follow-up:
 
 ---
 
-### 🧫 **Activity 3: Troubleshooting Practice**
+### **Activity 3: Troubleshooting Practice**
 Prompt:
 > “My PCR gel shows smeared bands. What are the possible causes and solutions?”
 
@@ -158,7 +170,7 @@ Follow-up:
 
 ---
 
-### 📊 **Activity 4: Compare Diagnostic Methods**
+### **Activity 4: Compare Diagnostic Methods**
 Prompt:
 > “Make a table comparing qPCR, LAMP, and metagenomic sequencing for pathogen detection.”
 
@@ -167,7 +179,7 @@ Follow-up:
 
 ---
 
-### 🧬 **Activity 5: Interactive Case Study**
+### **Activity 5: Interactive Case Study**
 Prompt:
 > “Create a scenario where I choose diagnostic tools to identify a disease outbreak. Let me make choices and give feedback after each step.”
 
@@ -176,17 +188,17 @@ Follow-up:
 
 ---
 
-## 🎓 Key Takeaways
+## Key Takeaways
 
-- 🧭 **AI is not a reliable authority** — always verify information using textbooks, peer-reviewed articles, and trusted experts.  
-- 💡 **AI is an exceptional learning tool** — use it to explore, clarify, and test your understanding.  
-- 🗣️ Learn to **ask clear, contextual questions** for more useful results.  
-- 📚 Use AI for **microlearning, revision, simulations, and brainstorming**.  
-- 🔍 Always combine AI insights with **critical thinking and evidence-based study**.
+- **AI is not a reliable authority** — always verify information using textbooks, peer-reviewed articles, and trusted experts.  
+- **AI is an exceptional learning tool** — use it to explore, clarify, and test your understanding.  
+- Learn to **ask clear, contextual questions** for more useful results.  
+- Use AI for **microlearning, revision, simulations, and brainstorming**.  
+- Always combine AI insights with **critical thinking and evidence-based study**.
 
 ---
 
-## 🧠 Final Challenge
+## **Final Challenge**
 
 Ask AI:
 > “Design a one-hour self-paced learning module on molecular diagnostics, including objectives, activities, and quiz questions.”
