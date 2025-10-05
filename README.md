@@ -54,12 +54,18 @@ Think of AI as a **smart tutor** — the quality of its help depends on the **cl
 Prompting is a skill — and AI can help you learn it.  
 You can even ask AI to **evaluate your prompts** and **suggest improvements**.
 
-### 🔍 Helpful Prompting Resources
-- [Awesome ChatGPT Prompts (GitHub)](https://github.com/f/awesome-chatgpt-prompts)
-- [Learn Prompting](https://learnprompting.org/)
-- [FlowGPT](https://flowgpt.com/)
-- [OpenAI Prompt Guide](https://platform.openai.com/docs/guides/prompting)
-- [Prompt Engineering for Students (YouTube)](https://www.youtube.com/results?search_query=prompt+engineering+for+students)
+
+## 📚 University-Curated AI Learning Resources
+
+| Category | Resource | Developed/Hosted By | Description |
+|-----------|-----------|--------------------|-------------|
+| 🧭 AI Literacy | [**Elements of AI**](https://www.elementsofai.com/) | University of Helsinki | A free, globally recognized course that introduces AI concepts for all disciplines. |
+| 💬 Prompt Design | [**Learn Prompting**](https://learnprompting.org/) | Open collaboration of AI educators and researchers | Structured lessons on writing and improving prompts for education and research. |
+| 🎓 Teaching & AI | [**Teaching with AI**](https://teachingtools.utoronto.ca/resources/teaching-with-ai/) | University of Toronto | Academic guide for using AI in learning and research settings. |
+| 🔍 AI for Learning | [**AI Pedagogy Project**](https://aipedagogy.org/) | Harvard University | Repository of educator-designed activities and case studies using AI for learning. |
+| 🧠 Critical Thinking | [**Center for Teaching & Learning: AI Literacy**](https://ctl.columbia.edu/resources-and-technology/ai-literacy/) | Columbia University | Practical advice on ethical, reflective, and effective AI use in university learning. |
+
+> 🧩 **All resources above are publicly available and developed by educators, professors, or researchers** from reputable universities.
 
 
 ---
@@ -123,18 +129,6 @@ Prompt:
 
 Follow-up:
 > “Summarize what I learned and suggest further reading.”
-
----
-
-## 📚 Resources to Learn AI for Learning
-
-| Category | Resource | Description |
-|-----------|-----------|-------------|
-| Prompt Design | [learnprompting.org](https://learnprompting.org/) | Free online lessons on prompt engineering. |
-| AI Fundamentals | [Elements of AI](https://www.elementsofai.com/) | Introductory university-level AI course. |
-| Academic Tools | [ScholarAI](https://scholarai.io/) | Helps summarize and explain scientific papers. |
-| Academic Writing | [Writefull](https://www.writefull.com/) | AI writing assistant for research and reports. |
-| AI in Research | [OpenAI Examples](https://platform.openai.com/examples) | Explore practical AI use cases in science and learning. |
 
 ---
 
