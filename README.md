@@ -61,9 +61,6 @@ You can even ask AI to **evaluate your prompts** and **suggest improvements**.
 - [OpenAI Prompt Guide](https://platform.openai.com/docs/guides/prompting)
 - [Prompt Engineering for Students (YouTube)](https://www.youtube.com/results?search_query=prompt+engineering+for+students)
 
-> 💬 Tip: Begin with context like  
-> “You are a university tutor explaining this to a student…”  
-> It helps AI tailor its explanations appropriately.
 
 ---
 
@@ -161,8 +158,4 @@ Then follow up:
 
 Reflect on how AI structured the content and what you learned from the process.
 
----
 
-📘 **Created by:** [Your Name]  
-🌍 *AI-Powered Learning for Smarter Minds*  
-🎯 *Helping learners master complex topics through intelligent microlearning and critical thinking.*
