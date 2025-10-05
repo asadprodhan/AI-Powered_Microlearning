@@ -23,14 +23,15 @@
 
 
 
-> ⚠️ **Important Notice**  
+**Important Notice**
+
 > Artificial Intelligence (AI) should be used as a **learning partner — not a replacement for study, reading, or critical thinking.**  
 > AI is **not a fully reliable source of truth** — it can make mistakes, invent facts (hallucinations), or simplify complex ideas incorrectly.  
 > However, when used **critically and thoughtfully**, AI becomes a **powerful learning tool** that helps you understand faster, explore broader, and think deeper.
 
 ---
 
-## 🎯 Purpose
+## **Purpose**
 
 This tutorial shows how **students, researchers, and lifelong learners** can use **AI tools (like ChatGPT, Claude, Gemini, etc.)** to learn complex topics — such as **molecular biology, bioinformatics, data science, or diagnostics** — through *targeted microlearning*.  
 
@@ -38,7 +39,7 @@ AI can serve you as your **personal tutor**, **research assistant**, or **though
 
 ---
 
-## 💡 Why Use AI for Learning?
+## **Why Use AI for Learning?**
 
 | Learning Challenge | How AI Helps |
 |--------------------|---------------|
@@ -48,8 +49,11 @@ AI can serve you as your **personal tutor**, **research assistant**, or **though
 | Need for self-paced learning | AI adjusts explanations to your current understanding. |
 | Practical problem solving | AI simulates workflows, guides troubleshooting, and builds study summaries. |
 
-> 🧠 Example:  
-> “Explain the principle of qPCR for detecting pathogens. Use simple language and a flowchart.”
+> Example:  
+
+```
+Explain the principle of qPCR for detecting pathogens. Use simple language and a flowchart.
+```
 
 ---
 
