@@ -51,25 +51,42 @@ AI can serve you as your **personal tutor**, **research assistant**, or **though
 
 > Example:  
 
+
 ```
 Explain the principle of qPCR for detecting pathogens. Use simple language and a flowchart.
 ```
 
 ---
 
-## 🧠 How to Interact with AI for Customized Answers
+## **How to Interact with AI for Customized Answers**
 
 Think of AI as a **smart tutor** — the quality of its help depends on the **clarity of your question**.
 
-### ✅ Tips for Effective Interaction
-1. **Set a clear role or context**  
-   > “You are an expert in molecular diagnostics. Explain...”
+### **Tips for Effective Interaction**
+
+1. **Set a clear role or context**
+
+```
+You are an expert in molecular diagnostics. Explain...
+```
+
 2. **Be specific**  
-   > “Describe how sequencing helps identify unknown pathogens from mixed samples.”
-3. **Request a structured output**  
-   > “Summarize in a table.”  
-   > “Make this a short 5-step microlearning lesson.”
-4. **Iterate and refine**  
+
+```
+Describe how sequencing helps identify unknown pathogens from mixed samples.
+```
+
+4. **Request a structured output**  
+
+```
+Summarize in a table.
+```
+  
+```
+Make this a short 5-step microlearning lesson.
+```
+
+5. **Iterate and refine**  
    > “Simplify for beginners.”  
    > “Add an example or visual summary.”  
    > “Rephrase in a more academic tone.”
